@@ -10,7 +10,4 @@ def fact(x):
         fact *=i;
     return fact
 
-fact(5)
-
-
 
