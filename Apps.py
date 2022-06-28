@@ -2,12 +2,14 @@
 """
     Esta funcion realiza el factorial de  un numero  
     retorna  el  factorial 
-
 """
+from math import factorial
+
+
 def fact(x):
-    fact =1
+    factorial =1
     for i in range(1,x+1):
-        fact *=i;
-    return fact
+        factorial *=i;
+    return factorial
 
 
