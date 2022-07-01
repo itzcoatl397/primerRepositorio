@@ -12,4 +12,6 @@ def fact(x):
         factorial *=i;
     return factorial
 
-
+#joseph
+suma=10+10
+print(suma)
