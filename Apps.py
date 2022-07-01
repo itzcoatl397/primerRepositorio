@@ -14,3 +14,7 @@ def fact(x):
 
 #joseph  
 print(fact(5))
+
+#Luis
+
+numero = int (input ("Ingrese un numero: "))
