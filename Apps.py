@@ -18,3 +18,7 @@ print(fact(5))
 #Luis
 
 numero = int (input ("Ingrese un numero: "))
+
+#zaid 
+
+palabra = char (input ("Ingrese una palabra "))
